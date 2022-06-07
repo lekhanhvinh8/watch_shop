@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Watchstore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="forgot_password">Quên mật khẩu ?</string>
+    <string name="image">image</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="password">Mật khẩu</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="orders">Đơn hàng</string>
+    <string name="customers">Khách hàng</string>
+    <string name="products">Sản phẩm</string>
+    <string name="brands">Thương hiệu</string>
+    <string name="add">Thêm</string>
+    <string name="brand_name">Tên thương hiệu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="glass">Loại kính</string>
+    <string name="glass_name">Tên loại kính</string>
+    <string name="machine_name">Tên loại máy</string>
+    <string name="machine">Loại máy</string>
+    <string name="strap_name">Tên loại dây</string>
+    <string name="strap">Loại dây đeo</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_cart">Giỏ hàng</string>
+    <string name="title_profile">Cá nhân</string>
+    <string name="cod">Phương thức thanh toán: COD</string>
+    <string name="order">Đặt hang</string>
+    <string name="total">Tổng:</string>
+    <string name="address">Địa chỉ</string>
+    <string name="pending_confirm">Chờ xác nhận</string>
+    <string name="shipping">Đang giao hàng</string>
+    <string name="success">Đã giao</string>
+    <string name="pending_delivery">Chờ giao hàng</string>
+    <string name="order_id">Mã đơn hàng</string>
+</resources>

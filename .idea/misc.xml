@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ShopTimes/app/src/main/res/drawable/baseline_delete_black_24dp.xml" value="0.1535" />
+        <entry key="..\:/ShopTimes/app/src/main/res/drawable/baseline_shopping_cart_black_24dp.xml" value="0.2265" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/activity_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_form_add_product.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_form_add_user.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_form_check_order.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_form_edit_product.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_form_edit_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_fragment_order.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_fragment_product.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_fragment_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_item_check_order.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_item_product.xml" value="0.4" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/admin_item_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/border.xml" value="0.1" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/brand_create_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/brand_item.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/brand_update_dialog.xml" value="0.1" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/cart_order_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_admin_brand.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_admin_glass.xml" value="0.1859375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_admin_machine.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_admin_product.xml" value="0.1859375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_admin_strap.xml" value="0.1859375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_cart.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_order_pending_confirm.xml" value="0.1859375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_order_pending_delivery.xml" value="0.1859375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_order_status.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_product.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/fragment_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/glass_create_dialog.xml" value="0.1859375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/glass_item.xml" value="0.18489583333333334" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/glass_update_dialog.xml" value="0.18489583333333334" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/item_cart.xml" value="0.176" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/item_checkout.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/item_order_item.xml" value="0.1859375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/item_order_pending_confirm.xml" value="0.1859375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/item_order_status.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/item_product.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/login.xml" value="0.18072916666666666" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/machine_create_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/machine_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/machine_update_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/nav_header_main.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/product_detail.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/register.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/strap_create_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/strap_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/ShopTimes/app/src/main/res/layout/strap_update_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/ShopTimes/app/src/main/res/menu/activity_admin_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/ShopTimes/app/src/main/res/menu/activity_main_drawer.xml" value="0.14375" />
+        <entry key="..\:/ShopTimes/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1859375" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_form_add_product.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_form_add_user.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_form_check_order.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_form_edit_product.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_form_edit_user.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_fragment_order.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_fragment_product.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_fragment_user.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_item_check_order.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_item_order.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_item_product.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/admin_item_user.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/app_bar_main.xml" value="0.1921875" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/checkout.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/forget_password.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/fragment_cart.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/fragment_order_status.xml" value="0.1921875" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/fragment_product.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.1921875" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/fragment_slideshow.xml" value="0.1921875" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/item_cart.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/item_checkout.xml" value="0.4" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/item_order_status.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/item_product.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/login.xml" value="0.1" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/product_detail.xml" value="0.1921875" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/register.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/layout/result_checkout.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/menu/activity_main_drawer.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ACER/Desktop/Lab_Android_Studio/MyApplication/app/src/main/res/menu/main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

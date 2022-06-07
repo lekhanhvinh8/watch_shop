@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imgProductDetail"
+        android:layout_width="404dp"
+        android:layout_height="242dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+    <TextView
+        android:id="@+id/txtTitleName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ten san pham"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="262dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/txtTitlePrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gia"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="291dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/txtTitleDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mo ta san pham"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="321dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="12dp"
+        android:text="Rolex 730"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="262dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/txtPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="12dp"
+        android:text="2.000.000.000"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="291dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/txtDescription"
+        android:layout_width="395dp"
+        android:layout_height="278dp"
+        android:text="La 1 san pham ..."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.791"
+        tools:layout_editor_absoluteX="3dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnAddCart"
+        android:layout_width="202dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="16dp"
+        android:text="Thêm vào giỏ hàng"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="196dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnSub"
+        android:layout_width="48dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="16dp"
+        android:text="-"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="670dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnPlus"
+        android:layout_width="48dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="88dp"
+        android:text="+"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="670dp" />
+
+    <TextView
+        android:id="@+id/txtAmount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="682dp"
+        tools:ignore="MissingConstraints" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

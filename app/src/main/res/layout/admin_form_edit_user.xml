@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/txtId"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Id"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="27dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/txtPassword"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Mật khẩu"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="93dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/txtAddress"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Địa chỉ"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="158dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/txtRole"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="216dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Chức vụ"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="158dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/txtPhone"
+        android:layout_width="185dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="216dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Số điện thoại"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="93dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/txtUserName"
+        android:layout_width="184dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="216dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Tên người dùng"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="27dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/txtEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:text="Chỉnh sửa"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="224dp"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>
