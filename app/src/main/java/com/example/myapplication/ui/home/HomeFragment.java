@@ -70,7 +70,8 @@ public class HomeFragment extends Fragment {
     }
 
     public void getProducts() {
-        Call<List<ProductResponse>> call = RetrofitClient.getProductService().GetAll();
+        //Call<List<ProductResponse>> call = RetrofitClient.getProductService().GetAll();
+        Call<List<ProductResponse>> call = RetrofitClient.getProductService().GetAllProducts();
 
         call.enqueue(new Callback<List<ProductResponse>>() {
             @Override

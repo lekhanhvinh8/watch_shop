@@ -34,7 +34,8 @@
         <activity
             android:name=".AdminActivity"
             android:exported="true"
-            android:theme="@style/Theme.MyApplication.NoActionBar"></activity>
+        android:theme="@style/Theme.MyApplication.NoActionBar"></activity>
+
     </application>
 
 </manifest>

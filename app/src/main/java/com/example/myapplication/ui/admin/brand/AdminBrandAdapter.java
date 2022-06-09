@@ -3,6 +3,7 @@ package com.example.myapplication.ui.admin.brand;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -36,6 +37,7 @@ public class AdminBrandAdapter extends RecyclerView.Adapter<AdminBrandAdapter.Vi
         LayoutInflater inflater = LayoutInflater.from(context);
 
         View brandView = inflater.inflate(R.layout.brand_item, parent, false);
+        Log.d("brand", brandView.toString());
         return new ViewHolder(brandView);
     }
 

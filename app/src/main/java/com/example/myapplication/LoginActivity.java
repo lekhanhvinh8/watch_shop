@@ -56,9 +56,12 @@ public class LoginActivity extends AppCompatActivity {
                 if (response.isSuccessful()) {
                     Toast.makeText(LoginActivity.this, "Đăng nhập thành công", Toast.LENGTH_LONG).show();
                     switch (Objects.requireNonNull(response.body()).getRole()) {
-                        case "ADMIN":
-                            new Handler().postDelayed((Runnable) () -> startActivity(new Intent(LoginActivity.this, AdminActivity.class)), 500);
+                        case "ADMIN": {
+                            Intent intentAdmin = new Intent(LoginActivity.this, AdminActivity.class);
+                            intentAdmin.putExtra("accountId", response.body().getId());
+                            new Handler().postDelayed((Runnable) () -> startActivity(intentAdmin), 500);
                             break;
+                        }
                         case "USER": {
                             Intent intent = new Intent(LoginActivity.this, UserActivity.class);
                             intent.putExtra("accountId", response.body().getId());

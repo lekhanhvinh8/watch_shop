@@ -3,6 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/admin_form_add_product.xml" value="0.25" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/admin_item_product.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/admin_product_item.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/brand_create_dialog.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/brand_item.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/fragment_admin_brand.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/fragment_admin_glass.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/fragment_admin_product.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/item_product.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/layout/product_create_dialog.xml" value="0.1" />
+        <entry key="..\:/MyData/MyProjects/MyWatch/client/ShopTimes/app/src/main/res/menu/activity_admin_drawer.xml" value="0.1" />
         <entry key="..\:/ShopTimes/app/src/main/res/drawable/baseline_delete_black_24dp.xml" value="0.1535" />
         <entry key="..\:/ShopTimes/app/src/main/res/drawable/baseline_shopping_cart_black_24dp.xml" value="0.2265" />
         <entry key="..\:/ShopTimes/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
