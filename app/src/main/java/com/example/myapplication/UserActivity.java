@@ -8,6 +8,7 @@ import android.util.Log;
 
 import com.example.myapplication.ui.cart.CartFragment;
 import com.example.myapplication.ui.home.HomeFragment;
+import com.example.myapplication.ui.order.OrderPendingConfirmFragment;
 import com.example.myapplication.ui.profile.ProfileFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -31,8 +32,11 @@ public class UserActivity extends AppCompatActivity {
                 case R.id.nav_user_cart:
                     selectedFragment = new CartFragment();
                     break;
+//                case R.id.nav_user_profile:
+//                    selectedFragment = new ProfileFragment();
+//                    break;
                 case R.id.nav_user_profile:
-                    selectedFragment = new ProfileFragment();
+                    selectedFragment = new OrderPendingConfirmFragment();
                     break;
             }
 

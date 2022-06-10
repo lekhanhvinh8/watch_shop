@@ -17,8 +17,8 @@
 
         <ImageView
             android:id="@+id/cart_item_image"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             android:contentDescription="@string/image" />
 
         <LinearLayout
@@ -30,7 +30,7 @@
                 android:id="@+id/cart_item_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="18sp"
+                android:textSize="13sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -76,13 +76,13 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1" />
 
-                <TextView
-                    android:id="@+id/cart_item_total"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="16sp"
-                    android:textStyle="bold"
-                    android:layout_gravity="bottom" />
+<!--                <TextView-->
+<!--                    android:id="@+id/cart_item_total"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textSize="16sp"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:layout_gravity="bottom" />-->
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>

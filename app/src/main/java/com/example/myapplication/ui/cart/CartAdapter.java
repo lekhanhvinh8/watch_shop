@@ -58,7 +58,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
 
         TextView totalTextView = holder.totalTextView;
         Double total = cart.getProductPrice() * cart.getAmount();
-        totalTextView.setText(format.format(total) + " VNĐ");
+        //totalTextView.setText(format.format(total) + " VNĐ");
 
         ImageView imageView = holder.imageView;
         new DownloadImage(imageView).execute(cart.getImage());
@@ -152,7 +152,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
             nameTextView = itemView.findViewById(R.id.cart_item_name);
             priceTextView = itemView.findViewById(R.id.cart_item_price);
             amountTextView = itemView.findViewById(R.id.cart_item_amount);
-            totalTextView = itemView.findViewById(R.id.cart_item_total);
+            //totalTextView = itemView.findViewById(R.id.cart_item_total);
             addButton = itemView.findViewById(R.id.cart_add_btn);
             removeButton = itemView.findViewById(R.id.cart_remove_btn);
             imageView = itemView.findViewById(R.id.cart_item_image);

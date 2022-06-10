@@ -37,7 +37,6 @@ public class AdminBrandAdapter extends RecyclerView.Adapter<AdminBrandAdapter.Vi
         LayoutInflater inflater = LayoutInflater.from(context);
 
         View brandView = inflater.inflate(R.layout.brand_item, parent, false);
-        Log.d("brand", brandView.toString());
         return new ViewHolder(brandView);
     }
 

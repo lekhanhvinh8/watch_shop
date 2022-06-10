@@ -29,7 +29,6 @@ public class AdminActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         LayoutInflater layoutInflater = getLayoutInflater();
-        Log.w("Dsd123", layoutInflater.toString());
 
         binding = ActivityMainBinding.inflate(layoutInflater);
         setContentView(binding.getRoot());

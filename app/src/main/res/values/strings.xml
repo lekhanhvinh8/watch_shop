@@ -39,8 +39,8 @@
     <string name="total">Tổng:</string>
     <string name="address">Địa chỉ</string>
     <string name="pending_confirm">Chờ xác nhận</string>
+    <string name="pending_delivery">Chờ lấy hàng</string>
     <string name="shipping">Đang giao hàng</string>
     <string name="success">Đã giao</string>
-    <string name="pending_delivery">Chờ giao hàng</string>
     <string name="order_id">Mã đơn hàng</string>
 </resources>

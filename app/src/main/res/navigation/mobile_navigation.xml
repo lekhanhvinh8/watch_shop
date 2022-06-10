@@ -31,10 +31,15 @@
         android:name="com.example.myapplication.ui.cart.CartFragment"
         tools:layout="@layout/fragment_cart" />
 
+<!--    <fragment-->
+<!--        android:id="@+id/nav_order_status"-->
+<!--        android:name="com.example.myapplication.ui.orderStatus.OrderStatusFragment"-->
+<!--        tools:layout="@layout/fragment_order_status" />-->
     <fragment
         android:id="@+id/nav_order_status"
-        android:name="com.example.myapplication.ui.orderStatus.OrderStatusFragment"
-        tools:layout="@layout/fragment_order_status" />
+        android:name="com.example.myapplication.ui.admin.order.AdminOrderFragment"
+        tools:layout="@layout/admin_fragment_order" />
+
     <fragment
         android:id="@+id/nav_profile"
         android:name="com.example.myapplication.ui.profile.ProfileFragment"
@@ -57,6 +62,6 @@
     <fragment
         android:id="@+id/nav_admin_order"
         android:name="com.example.myapplication.ui.admin.order.AdminOrderFragment"
-        tools:layout="@layout/admin_fragment_user" />
+        tools:layout="@layout/admin_fragment_order" />
 
 </navigation>

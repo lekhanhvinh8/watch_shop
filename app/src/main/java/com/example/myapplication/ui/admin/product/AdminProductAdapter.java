@@ -23,6 +23,7 @@ import com.example.myapplication.ui.admin.brand.AdminBrandAdapter;
 import com.example.myapplication.ui.admin.brand.AdminBrandFragment;
 
 import java.io.InputStream;
+import java.text.DecimalFormat;
 import java.util.List;
 
 public class AdminProductAdapter extends RecyclerView.Adapter<AdminProductAdapter.ViewHolder> {
@@ -52,8 +53,11 @@ public class AdminProductAdapter extends RecyclerView.Adapter<AdminProductAdapte
 
         String price = Double.toString(product.getPrice());
         if(price != null){
+            DecimalFormat format = new DecimalFormat("#,###.#");
+            String totalPrice = format.format(product.getPrice());
+
             TextView priceTextView = holder.productPrice;
-            priceTextView.setText(price);
+            priceTextView.setText(totalPrice + " VNĐ");
         }
 
         String quantity = Integer.toString(product.getQuantity());
